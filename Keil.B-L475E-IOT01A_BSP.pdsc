@@ -22,6 +22,8 @@
       - add DWARF-5 debug information
       - add generated output files
       - add RTE_Components.h files
+      - add dbgconf files for the Blinky example.
+      - updated RTE_Components.h file.	  
     </release>
     <release version="1.0.1" date="2021-07-12">
       Drivers:
