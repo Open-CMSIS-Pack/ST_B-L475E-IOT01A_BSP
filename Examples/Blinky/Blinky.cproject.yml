@@ -42,6 +42,7 @@ project:
       regions: ./RTE/Device/STM32L475VGTx/regions_B-L475E-IOT01A.h
       for-compiler: AC6
 
+  # List executable file formats to be generated.
   output:
     type:
       - elf
